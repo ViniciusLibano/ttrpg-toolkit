@@ -1,0 +1,6 @@
+@TTRPG.Toolkit_HostAddress = http://localhost:5208
+
+GET {{TTRPG.Toolkit_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
